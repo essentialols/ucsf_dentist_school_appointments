@@ -1,5 +1,10 @@
 {
-  "last_check": null,
+  "last_check": "2026-01-25T15:36:20.468645",
   "slots": [],
-  "checks": []
+  "checks": [
+    {
+      "timestamp": "2026-01-25T15:36:20.468634",
+      "slot_count": 0
+    }
+  ]
 }
