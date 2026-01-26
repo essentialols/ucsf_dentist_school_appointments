@@ -3,7 +3,7 @@ name: Check Dental Appointments
 on:
   # Run every 60 minutes
   schedule:
-    - cron: '0 * * * *'
+    - cron: '17 * * * *'
 
   # Allow manual trigger
   workflow_dispatch:
